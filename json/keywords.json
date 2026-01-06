@@ -1,0 +1,194 @@
+{
+    "keyword1": {
+        "name": "Biodiversity",
+        "courses": {
+            "c1": {
+                "id": "001",
+                "weight": 0.4
+            },
+            "c2": {
+                "id": "004",
+                "weight": 0.25
+            },
+            "c3": {
+                "id": "005",
+                "weight": 0.25
+            }
+        }
+    },
+    "keyword2": {
+        "name": "Soil Management",
+        "courses": {
+            "c1": {
+                "id": "001",
+                "weight": 0.3
+            },
+            "c2": {
+                "id": "005",
+                "weight": 0.333
+            }
+        }
+    },
+    "keyword3": {
+        "name": "Irrigation",
+        "courses": {
+            "c1": {
+                "id": "001",
+                "weight": 0.2
+            }
+        }
+    },
+    "keyword4": {
+        "name": "Crop Rotation",
+        "courses": {
+            "c1": {
+                "id": "001",
+                "weight": 0.1
+            }
+        }
+    },
+    "keyword5": {
+        "name": "Technologies",
+        "courses": {
+            "c1": {
+                "id": "002",
+                "weight": 0.357
+            },
+            "c2": {
+                "id": "004",
+                "weight": 0.167
+            },
+            "c3": {
+                "id": "006",
+                "weight": 0.4
+            }
+        }
+    },
+    "keyword6": {
+        "name": "Data Analysis",
+        "courses": {
+            "c1": {
+                "id": "002",
+                "weight": 0.286
+            },
+            "c2": {
+                "id": "006",
+                "weight": 0.267
+            }
+        }
+    },
+    "keyword7": {
+        "name": "GPS Systems",
+        "courses": {
+            "c1": {
+                "id": "002",
+                "weight": 0.214
+            }
+        }
+    },
+    "keyword8": {
+        "name": "Automation",
+        "courses": {
+            "c1": {
+                "id": "002",
+                "weight": 0.143
+            }
+        }
+    },
+    "keyword9": {
+        "name": "Communication",
+        "courses": {
+            "c1": {
+                "id": "003",
+                "weight": 0.333
+            },
+            "c2": {
+                "id": "006",
+                "weight": 0.133
+            },
+            "c3": {
+                "id": "007",
+                "weight": 0.25
+            }
+        }
+    },
+    "keyword10": {
+        "name": "Marketing",
+        "courses": {
+            "c1": {
+                "id": "003",
+                "weight": 0.25
+            }
+        }
+    },
+    "keyword11": {
+        "name": "Planning",
+        "courses": {
+            "c1": {
+                "id": "003",
+                "weight": 0.167
+            },
+            "c2": {
+                "id": "004",
+                "weight": 0.083
+            },
+            "c3": {
+                "id": "006",
+                "weight": 0.067
+            },
+            "c4": {
+                "id": "007",
+                "weight": 0.333
+            }
+        }
+    },
+    "keyword12": {
+        "name": "Economics",
+        "courses": {
+            "c1": {
+                "id": "003",
+                "weight": 0.083
+            },
+            "c2": {
+                "id": "007",
+                "weight": 0.167
+            }
+        }
+    },
+    "keyword13": {
+        "name": "Climate Adaptation",
+        "courses": {
+            "c1": {
+                "id": "004",
+                "weight": 0.333
+            }
+        }
+    },
+    "keyword14": {
+        "name": "Pest Control",
+        "courses": {
+            "c1": {
+                "id": "005",
+                "weight": 0.167
+            }
+        }
+    },
+    "keyword15": {
+        "name": "Certification",
+        "courses": {
+            "c1": {
+                "id": "005",
+                "weight": 0.083
+            }
+        }
+    },
+    "keyword16": {
+        "name": "Community Engagement",
+        "courses": {
+            "c1": {
+                "id": "007",
+                "weight": 0.083
+            }
+        }
+    }
+}

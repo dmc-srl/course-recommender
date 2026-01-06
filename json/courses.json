@@ -1,0 +1,282 @@
+{
+    "course1": {
+        "id": "001",
+        "title": "Sustainable Agriculture Fundamentals",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Biodiversity",
+                "weight": 0.333
+            },
+            "k2": {
+                "name": "Soil Management",
+                "weight": 0.25
+            },
+            "k3": {
+                "name": "Irrigation",
+                "weight": 0.167
+            },
+            "k4": {
+                "name": "Crop Rotation",
+                "weight": 0.083
+            }
+        }
+    },
+    "course2": {
+        "id": "002",
+        "title": "Precision Farming Technologies",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Technologies",
+                "weight": 0.357
+            },
+            "k2": {
+                "name": "Data Analysis",
+                "weight": 0.286
+            },
+            "k3": {
+                "name": "GPS Systems",
+                "weight": 0.214
+            },
+            "k4": {
+                "name": "Automation",
+                "weight": 0.143
+            }
+        }
+    },
+    "course3": {
+        "id": "003",
+        "title": "Agri-Business Communication",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Communication",
+                "weight": 0.333
+            },
+            "k2": {
+                "name": "Marketing",
+                "weight": 0.25
+            },
+            "k3": {
+                "name": "Planning",
+                "weight": 0.167
+            },
+            "k4": {
+                "name": "Economics",
+                "weight": 0.083
+            }
+        }
+    },
+    "course4": {
+        "id": "004",
+        "title": "Climate-Smart Agriculture",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Biodiversity",
+                "weight": 0.25
+            },
+            "k2": {
+                "name": "Climate Adaptation",
+                "weight": 0.333
+            },
+            "k3": {
+                "name": "Technologies",
+                "weight": 0.167
+            },
+            "k4": {
+                "name": "Planning",
+                "weight": 0.083
+            }
+        }
+    },
+    "course5": {
+        "id": "005",
+        "title": "Organic Farming Practices",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Soil Management",
+                "weight": 0.333
+            },
+            "k2": {
+                "name": "Biodiversity",
+                "weight": 0.25
+            },
+            "k3": {
+                "name": "Pest Control",
+                "weight": 0.167
+            },
+            "k4": {
+                "name": "Certification",
+                "weight": 0.083
+            }
+        }
+    },
+    "course6": {
+        "id": "006",
+        "title": "Digital Agriculture Solutions",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Technologies",
+                "weight": 0.4
+            },
+            "k2": {
+                "name": "Data Analysis",
+                "weight": 0.267
+            },
+            "k3": {
+                "name": "Communication",
+                "weight": 0.133
+            },
+            "k4": {
+                "name": "Planning",
+                "weight": 0.067
+            }
+        }
+    },
+    "course7": {
+        "id": "007",
+        "title": "Rural Development Strategies",
+        "description": "Lorem ipsum...",
+        "multimediaGallery": {
+            "media1": {
+                "type": "jpg",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media2": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            },
+            "media3": {
+                "type": "mp4",
+                "localPath": "/path/on/the/client",
+                "remotePath": "/path/on/the/Server"
+            }
+        },
+        "keywords": {
+            "k1": {
+                "name": "Planning",
+                "weight": 0.333
+            },
+            "k2": {
+                "name": "Communication",
+                "weight": 0.25
+            },
+            "k3": {
+                "name": "Economics",
+                "weight": 0.167
+            },
+            "k4": {
+                "name": "Community Engagement",
+                "weight": 0.083
+            }
+        }
+    }
+}
