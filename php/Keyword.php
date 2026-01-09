@@ -1,27 +1,46 @@
 <?php
 class Keyword {
-    private $keywordName;
-    private $coursesSet;
+    private $id;
+    private $names;
 
-    public function __construct($keywordName, $coursesSet) {
-        $this->keywordName = $keywordName;
-        $this->coursesSet = $coursesSet; // array of courseId => weight
+    public function __construct($id, $names = []) {
+        $this->id = $id;
+        $this->names = $names;
     }
 
-    public function getKeywordName() {
-        return $this->keywordName;
+    public function getId() {
+        return $this->id;
     }
 
-    public function setKeywordName($keywordName) {
-        $this->keywordName = $keywordName;
+    public function setId($id) {
+        $this->id = $id;
     }
 
-    public function getCoursesSet() {
-        return $this->coursesSet;
+    public function getName($lang) {
+        return isset($this->names[$lang]) ? $this->names[$lang] : '';
     }
 
-    public function setCoursesSet($coursesSet) {
-        $this->coursesSet = $coursesSet;
+    public function setName($lang, $name) {
+        $this->names[$lang] = $name;
+    }
+
+    public function getNames() {
+        return $this->names;
+    }
+
+    public function setNames($names) {
+        $this->names = $names;
+    }
+
+    public function toArray() {
+        return [
+            'id' => $this->id,
+            'name' => $this->names
+        ];
+    }
+
+    public static function fromArray($data) {
+        return new self($data['id'], $data['name'] ?? []);
     }
 }
 ?>

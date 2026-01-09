@@ -1,0 +1,10 @@
+{
+	"langs": [
+		{"it":"Italiano"},
+		{"en":"English"},
+		{"es":"Español"},
+		{"fr":"Français"},
+		{"de":"Deutsch"}
+	],
+	"default-lang":"it"
+}
